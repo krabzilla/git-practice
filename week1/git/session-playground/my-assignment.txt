@@ -1,1 +1,3 @@
 THis is a new txt file created for a branch named git week one exercise three.
+
+Some more git add and commit. 
